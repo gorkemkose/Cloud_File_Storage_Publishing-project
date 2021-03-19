@@ -1,0 +1,54 @@
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\GERCEKTEN_SON\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+C:\Users\Gokturk\Desktop\408 projee\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+C:\Users\pc\Desktop\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe.config
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.exe
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.pdb
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.exe
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\bin\Release\Project_step1_server.pdb
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.ServerForm.resources
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\Project (2)\Project\server\Project_step1_server\Project_step1_server\obj\Release\Project_step1_server.csproj.GenerateResource.Cache
