@@ -1,0 +1,9 @@
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Debug\Project_step1_server.exe.config
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Debug\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\bin\Debug\Project_step1_server.pdb
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.csprojResolveAssemblyReference.cache
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.ServerForm.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.Properties.Resources.resources
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.csproj.GenerateResource.Cache
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.exe
+C:\Users\Gokturk\Desktop\408 projee\408proje\gkose_Kose_GulsenGorkem_Step1\server\Project_step1_server\Project_step1_server\obj\Debug\Project_step1_server.pdb
